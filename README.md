@@ -1,13 +1,13 @@
 # DjangoWebBlog
 
-A simple blog application built with Django.
-Credits: Corey Schafer
+A blog application built with Django.
+Credits: Corey Schafer Youtube channel
 
 The site allows to:
 
 register as a user
 
-add a picture to your profile
+adding profile picture
 
 create, update and delete posts
 
