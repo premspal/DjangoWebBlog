@@ -1,6 +1,6 @@
 # DjangoWebBlog
 
-A blog application built in Django.
+A blog application built with Django.
 
 
 
